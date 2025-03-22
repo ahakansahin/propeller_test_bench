@@ -1,0 +1,267 @@
+SWV ITM Data Console - ITM Port: 0
+RPM: 0
+RPM: 0
+RMS: 2.273763 - FFT: 0.00 Hz  -Weight: -0.17 grams - Thrust: -0.00 newton - RPM: 0
+RMS: 2.319483 - FFT: 0.00 Hz  -Weight: 0.32 grams - Thrust: 0.00 newton - RPM: 0
+RMS: 2.293469 - FFT: 0.00 Hz  -Weight: -1.14 grams - Thrust: -0.01 newton - RPM: 0
+RPM: 0
+RMS: 1.734935 - FFT: 9.00 Hz  -Weight: -4.34 grams - Thrust: -0.04 newton - RPM: 0
+RMS: 2.295648 - FFT: 8.00 Hz  -Weight: -4.81 grams - Thrust: -0.05 newton - RPM: 0
+RMS: 2.956349 - FFT: 8.00 Hz  -Weight: 0.81 grams - Thrust: 0.01 newton - RPM: 0
+RPM: 0
+RMS: 2.675817 - FFT: 9.00 Hz  -Weight: 0.64 grams - Thrust: 0.01 newton - RPM: 0
+RMS: 2.381176 - FFT: 0.00 Hz  -Weight: -1.74 grams - Thrust: -0.02 newton - RPM: 0
+RMS: 3.004996 - FFT: 0.00 Hz  -Weight: -2.26 grams - Thrust: -0.02 newton - RPM: 0
+RPM: 0
+RMS: 3.235738 - FFT: 0.00 Hz  -Weight: -0.53 grams - Thrust: -0.01 newton - RPM: 0
+RMS: 2.594224 - FFT: 12.00 Hz  -Weight: -2.34 grams - Thrust: -0.02 newton - RPM: 0
+RMS: 2.771281 - FFT: 14.00 Hz  -Weight: -0.04 grams - Thrust: -0.00 newton - RPM: 0
+RPM: 0
+RMS: 2.154066 - FFT: 16.00 Hz  -Weight: -0.94 grams - Thrust: -0.01 newton - RPM: 0
+RMS: 2.391652 - FFT: 0.00 Hz  -Weight: -2.73 grams - Thrust: -0.03 newton - RPM: 0
+RPM: 0
+RMS: 2.304344 - FFT: 0.00 Hz  -Weight: -2.65 grams - Thrust: -0.03 newton - RPM: 0
+RMS: 2.184033 - FFT: 16.00 Hz  -Weight: -2.36 grams - Thrust: -0.02 newton - RPM: 0
+RMS: 1.918333 - FFT: 13.00 Hz  -Weight: -3.14 grams - Thrust: -0.03 newton - RPM: 0
+RPM: 0
+RMS: 2.863564 - FFT: 0.00 Hz  -Weight: -0.76 grams - Thrust: -0.01 newton - RPM: 0
+RMS: 2.796426 - FFT: 0.00 Hz  -Weight: -2.41 grams - Thrust: -0.02 newton - RPM: 0
+RMS: 2.996665 - FFT: 23.00 Hz  -Weight: -2.17 grams - Thrust: -0.02 newton - RPM: 0
+RPM: 0
+RMS: 2.705550 - FFT: 18.00 Hz  -Weight: 1.77 grams - Thrust: 0.02 newton - RPM: 0
+RMS: 2.673949 - FFT: 5.00 Hz  -Weight: 4.05 grams - Thrust: 0.04 newton - RPM: 0
+RMS: 2.870540 - FFT: 22.00 Hz  -Weight: -0.92 grams - Thrust: -0.01 newton - RPM: 0
+RPM: 0
+RMS: 3.008322 - FFT: 14.00 Hz  -Weight: 0.28 grams - Thrust: 0.00 newton - RPM: 0
+RMS: 2.738613 - FFT: 0.00 Hz  -Weight: -1.18 grams - Thrust: -0.01 newton - RPM: 0
+RMS: 2.662705 - FFT: 7.00 Hz  -Weight: 0.61 grams - Thrust: 0.01 newton - RPM: 0
+RPM: 0
+RMS: 3.171750 - FFT: 0.00 Hz  -Weight: 2.91 grams - Thrust: 0.03 newton - RPM: 0
+RMS: 3.044667 - FFT: 0.00 Hz  -Weight: -3.87 grams - Thrust: -0.04 newton - RPM: 0
+RMS: 3.402940 - FFT: 0.00 Hz  -Weight: -1.18 grams - Thrust: -0.01 newton - RPM: 0
+RPM: 0
+RMS: 2.116601 - FFT: 22.00 Hz  -Weight: -1.80 grams - Thrust: -0.02 newton - RPM: 0
+RMS: 2.485960 - FFT: 0.00 Hz  -Weight: -3.17 grams - Thrust: -0.03 newton - RPM: 0
+RMS: 2.505993 - FFT: 0.00 Hz  -Weight: -2.31 grams - Thrust: -0.02 newton - RPM: 0
+RPM: 0
+RMS: 2.238303 - FFT: 0.00 Hz  -Weight: -1.08 grams - Thrust: -0.01 newton - RPM: 0
+RMS: 1.881489 - FFT: 0.00 Hz  -Weight: -2.99 grams - Thrust: -0.03 newton - RPM: 0
+RPM: 0
+RMS: 1.946792 - FFT: 10.00 Hz  -Weight: -1.23 grams - Thrust: -0.01 newton - RPM: 0
+RMS: 1.936492 - FFT: 4.00 Hz  -Weight: -1.10 grams - Thrust: -0.01 newton - RPM: 0
+RMS: 1.933908 - FFT: 9.00 Hz  -Weight: -3.07 grams - Thrust: -0.03 newton - RPM: 0
+RPM: 0
+RMS: 2.097618 - FFT: 0.00 Hz  -Weight: -2.85 grams - Thrust: -0.03 newton - RPM: 0
+RMS: 2.163331 - FFT: 11.00 Hz  -Weight: -1.37 grams - Thrust: -0.01 newton - RPM: 0
+RMS: 2.400000 - FFT: 0.00 Hz  -Weight: -0.39 grams - Thrust: -0.00 newton - RPM: 0
+RPM: 0
+RMS: 2.304344 - FFT: 0.00 Hz  -Weight: -2.42 grams - Thrust: -0.02 newton - RPM: 0
+RMS: 2.297825 - FFT: 22.00 Hz  -Weight: 2.11 grams - Thrust: 0.02 newton - RPM: 0
+RMS: 2.097618 - FFT: 10.00 Hz  -Weight: 1.10 grams - Thrust: 0.01 newton - RPM: 0
+RPM: 0
+RMS: 2.357965 - FFT: 0.00 Hz  -Weight: -0.48 grams - Thrust: -0.00 newton - RPM: 0
+RMS: 2.428992 - FFT: 0.00 Hz  -Weight: 2.38 grams - Thrust: 0.02 newton - RPM: 0
+RMS: 2.267157 - FFT: 2.00 Hz  -Weight: -2.69 grams - Thrust: -0.03 newton - RPM: 0
+RPM: 0
+RMS: 2.727636 - FFT: 0.00 Hz  -Weight: -0.35 grams - Thrust: -0.00 newton - RPM: 0
+RMS: 2.273763 - FFT: 13.00 Hz  -Weight: 4.68 grams - Thrust: 0.05 newton - RPM: 0
+RMS: 2.071232 - FFT: 25.00 Hz  -Weight: -3.56 grams - Thrust: -0.03 newton - RPM: 0
+RPM: 0
+RMS: 2.240536 - FFT: 14.00 Hz  -Weight: -1.94 grams - Thrust: -0.02 newton - RPM: 0
+RMS: 2.090455 - FFT: 0.00 Hz  -Weight: -3.04 grams - Thrust: -0.03 newton - RPM: 0
+RPM: 0
+RMS: 2.703701 - FFT: 0.00 Hz  -Weight: -3.15 grams - Thrust: -0.03 newton - RPM: 0
+RMS: 2.049390 - FFT: 0.00 Hz  -Weight: -0.32 grams - Thrust: -0.00 newton - RPM: 0
+RMS: 2.561250 - FFT: 16.00 Hz  -Weight: 6.36 grams - Thrust: 0.06 newton - RPM: 0
+RPM: 0
+RMS: 2.200000 - FFT: 2.00 Hz  -Weight: 0.50 grams - Thrust: 0.00 newton - RPM: 0
+RMS: 1.964688 - FFT: 0.00 Hz  -Weight: -0.60 grams - Thrust: -0.01 newton - RPM: 0
+RMS: 2.149419 - FFT: 10.00 Hz  -Weight: -0.02 grams - Thrust: -0.00 newton - RPM: 0
+RPM: 0
+RMS: 2.343075 - FFT: 0.00 Hz  -Weight: -1.62 grams - Thrust: -0.02 newton - RPM: 0
+RMS: 2.240536 - FFT: 7.00 Hz  -Weight: -2.35 grams - Thrust: -0.02 newton - RPM: 0
+RMS: 2.206808 - FFT: 2.00 Hz  -Weight: 1.14 grams - Thrust: 0.01 newton - RPM: 0
+RPM: 0
+RMS: 2.170254 - FFT: 0.00 Hz  -Weight: -4.13 grams - Thrust: -0.04 newton - RPM: 0
+RMS: 2.066398 - FFT: 3.00 Hz  -Weight: -3.74 grams - Thrust: -0.04 newton - RPM: 0
+RMS: 2.130728 - FFT: 25.00 Hz  -Weight: -2.17 grams - Thrust: -0.02 newton - RPM: 0
+RPM: 0
+RMS: 2.258318 - FFT: 8.00 Hz  -Weight: -2.55 grams - Thrust: -0.03 newton - RPM: 0
+RMS: 2.387467 - FFT: 0.00 Hz  -Weight: -2.87 grams - Thrust: -0.03 newton - RPM: 0
+RMS: 2.181742 - FFT: 0.00 Hz  -Weight: 1.44 grams - Thrust: 0.01 newton - RPM: 0
+RPM: 0
+RMS: 2.400000 - FFT: 0.00 Hz  -Weight: -0.16 grams - Thrust: -0.00 newton - RPM: 0
+RMS: 2.188607 - FFT: 0.00 Hz  -Weight: -0.57 grams - Thrust: -0.01 newton - RPM: 0
+RMS: 2.489980 - FFT: 21.00 Hz  -Weight: -3.39 grams - Thrust: -0.03 newton - RPM: 0
+RPM: 0
+RMS: 2.188607 - FFT: 21.00 Hz  -Weight: -0.23 grams - Thrust: -0.00 newton - RPM: 0
+RMS: 2.325941 - FFT: 20.00 Hz  -Weight: -2.32 grams - Thrust: -0.02 newton - RPM: 0
+RPM: 0
+RMS: 2.121320 - FFT: 0.00 Hz  -Weight: -2.61 grams - Thrust: -0.03 newton - RPM: 0
+RMS: 22.608849 - FFT: 4.00 Hz  -Weight: -13.88 grams - Thrust: -0.14 newton - RPM: 600
+RMS: 35.415535 - FFT: 20.00 Hz  -Weight: -29.50 grams - Thrust: -0.29 newton - RPM: 540
+RPM: 300
+RMS: 26.243286 - FFT: 0.00 Hz  -Weight: -0.77 grams - Thrust: -0.01 newton - RPM: 0
+RMS: 2.863564 - FFT: 13.00 Hz  -Weight: 0.54 grams - Thrust: 0.01 newton - RPM: 0
+RMS: 2.576820 - FFT: 12.00 Hz  -Weight: -1.12 grams - Thrust: -0.01 newton - RPM: 0
+RPM: 0
+RMS: 2.782085 - FFT: 5.00 Hz  -Weight: -0.38 grams - Thrust: -0.00 newton - RPM: 0
+RMS: 2.531798 - FFT: 0.00 Hz  -Weight: 0.02 grams - Thrust: 0.00 newton - RPM: 0
+RMS: 27.994642 - FFT: 25.00 Hz  -Weight: -44.06 grams - Thrust: -0.43 newton - RPM: 480
+RPM: 660
+RMS: 28.588810 - FFT: 0.00 Hz  -Weight: -44.08 grams - Thrust: -0.43 newton - RPM: 660
+RMS: 27.947989 - FFT: 0.00 Hz  -Weight: -49.59 grams - Thrust: -0.49 newton - RPM: 660
+RMS: 26.832815 - FFT: 0.00 Hz  -Weight: -39.22 grams - Thrust: -0.38 newton - RPM: 720
+RPM: 600
+RMS: 24.463238 - FFT: 14.00 Hz  -Weight: -43.52 grams - Thrust: -0.43 newton - RPM: 660
+RMS: 27.710829 - FFT: 14.00 Hz  -Weight: -45.00 grams - Thrust: -0.44 newton - RPM: 600
+RMS: 39.575245 - FFT: 11.00 Hz  -Weight: -77.82 grams - Thrust: -0.76 newton - RPM: 780
+RPM: 780
+RMS: 32.976963 - FFT: 0.00 Hz  -Weight: -77.61 grams - Thrust: -0.76 newton - RPM: 780
+RMS: 37.482929 - FFT: 0.00 Hz  -Weight: -79.28 grams - Thrust: -0.78 newton - RPM: 780
+RMS: 41.777744 - FFT: 11.00 Hz  -Weight: -101.84 grams - Thrust: -1.00 newton - RPM: 900
+RPM: 900
+RMS: 36.405632 - FFT: 13.00 Hz  -Weight: -102.42 grams - Thrust: -1.00 newton - RPM: 1080
+RMS: 45.820629 - FFT: 2.00 Hz  -Weight: -161.19 grams - Thrust: -1.58 newton - RPM: 1080
+RPM: 1500
+RMS: 43.398041 - FFT: 0.00 Hz  -Weight: -209.70 grams - Thrust: -2.06 newton - RPM: 1260
+RMS: 39.475689 - FFT: 21.00 Hz  -Weight: -206.84 grams - Thrust: -2.03 newton - RPM: 1440
+RMS: 41.205704 - FFT: 25.00 Hz  -Weight: -269.43 grams - Thrust: -2.64 newton - RPM: 1440
+RPM: 1440
+RMS: 51.371784 - FFT: 0.00 Hz  -Weight: -270.71 grams - Thrust: -2.66 newton - RPM: 1440
+RMS: 41.136723 - FFT: 9.00 Hz  -Weight: -288.68 grams - Thrust: -2.83 newton - RPM: 1620
+RMS: 39.362293 - FFT: 3.00 Hz  -Weight: -321.57 grams - Thrust: -3.15 newton - RPM: 1620
+RPM: 1560
+RMS: 43.067158 - FFT: 13.00 Hz  -Weight: -327.08 grams - Thrust: -3.21 newton - RPM: 1680
+RMS: 44.279903 - FFT: 9.00 Hz  -Weight: -321.87 grams - Thrust: -3.16 newton - RPM: 1680
+RMS: 45.577076 - FFT: 3.00 Hz  -Weight: -319.94 grams - Thrust: -3.14 newton - RPM: 1740
+RPM: 1680
+RMS: 40.018120 - FFT: 12.00 Hz  -Weight: -319.95 grams - Thrust: -3.14 newton - RPM: 1620
+RMS: 35.223854 - FFT: 16.00 Hz  -Weight: -372.57 grams - Thrust: -3.65 newton - RPM: 1860
+RMS: 39.837296 - FFT: 9.00 Hz  -Weight: -463.92 grams - Thrust: -4.55 newton - RPM: 1860
+RPM: 1860
+RMS: 38.862320 - FFT: 3.00 Hz  -Weight: -456.60 grams - Thrust: -4.48 newton - RPM: 1920
+RMS: 39.731346 - FFT: 0.00 Hz  -Weight: -461.54 grams - Thrust: -4.53 newton - RPM: 1860
+RMS: 46.830441 - FFT: 0.00 Hz  -Weight: -459.68 grams - Thrust: -4.51 newton - RPM: 1860
+RPM: 1860
+RMS: 40.727631 - FFT: 0.00 Hz  -Weight: -461.59 grams - Thrust: -4.53 newton - RPM: 1860
+RMS: 39.763172 - FFT: 19.00 Hz  -Weight: -461.70 grams - Thrust: -4.53 newton - RPM: 1860
+RPM: 1980
+RMS: 51.832134 - FFT: 18.00 Hz  -Weight: -539.54 grams - Thrust: -5.29 newton - RPM: 2040
+RMS: 61.647141 - FFT: 14.00 Hz  -Weight: -539.58 grams - Thrust: -5.29 newton - RPM: 2040
+RMS: 61.291435 - FFT: 12.00 Hz  -Weight: -559.68 grams - Thrust: -5.49 newton - RPM: 2040
+RPM: 2220
+RMS: 64.865089 - FFT: 0.00 Hz  -Weight: -621.69 grams - Thrust: -6.10 newton - RPM: 2160
+RMS: 64.712753 - FFT: 0.00 Hz  -Weight: -627.21 grams - Thrust: -6.15 newton - RPM: 2160
+RMS: 72.906654 - FFT: 0.00 Hz  -Weight: -744.54 grams - Thrust: -7.30 newton - RPM: 2340
+RPM: 2400
+RMS: 69.434792 - FFT: 0.00 Hz  -Weight: -749.36 grams - Thrust: -7.35 newton - RPM: 2460
+RMS: 64.295959 - FFT: 0.00 Hz  -Weight: -842.84 grams - Thrust: -8.27 newton - RPM: 2520
+RMS: 66.945946 - FFT: 12.00 Hz  -Weight: -927.01 grams - Thrust: -9.09 newton - RPM: 2640
+RPM: 2760
+RMS: 47.743900 - FFT: 0.00 Hz  -Weight: -1005.30 grams - Thrust: -9.86 newton - RPM: 2760
+RMS: 58.091908 - FFT: 23.00 Hz  -Weight: -1102.80 grams - Thrust: -10.82 newton - RPM: 2940
+RMS: 61.274712 - FFT: 0.00 Hz  -Weight: -1116.61 grams - Thrust: -10.95 newton - RPM: 2880
+RPM: 2940
+RMS: 66.459610 - FFT: 1.00 Hz  -Weight: -1216.62 grams - Thrust: -11.94 newton - RPM: 3120
+RMS: 79.156807 - FFT: 9.00 Hz  -Weight: -1276.77 grams - Thrust: -12.53 newton - RPM: 3180
+RMS: 92.411957 - FFT: 0.00 Hz  -Weight: -1375.38 grams - Thrust: -13.49 newton - RPM: 3180
+RPM: 3300
+RMS: 123.740295 - FFT: 0.00 Hz  -Weight: -1428.47 grams - Thrust: -14.01 newton - RPM: 3360
+RMS: 212.443451 - FFT: 14.00 Hz  -Weight: -1862.58 grams - Thrust: -18.27 newton - RPM: 3780
+RMS: 191.057404 - FFT: 0.00 Hz  -Weight: -1836.21 grams - Thrust: -18.01 newton - RPM: 3720
+RPM: 3780
+RMS: 209.747772 - FFT: 0.00 Hz  -Weight: -1824.48 grams - Thrust: -17.90 newton - RPM: 3780
+RMS: 209.932373 - FFT: 1.00 Hz  -Weight: -1802.44 grams - Thrust: -17.68 newton - RPM: 3720
+RPM: 3720
+RMS: 208.224335 - FFT: 0.00 Hz  -Weight: -1761.17 grams - Thrust: -17.28 newton - RPM: 3780
+RMS: 227.129196 - FFT: 0.00 Hz  -Weight: -1802.76 grams - Thrust: -17.69 newton - RPM: 3720
+RMS: 242.779556 - FFT: 0.00 Hz  -Weight: -1789.42 grams - Thrust: -17.55 newton - RPM: 3720
+RPM: 3660
+RMS: 216.462585 - FFT: 0.00 Hz  -Weight: -1791.76 grams - Thrust: -17.58 newton - RPM: 3720
+RMS: 233.189560 - FFT: 18.00 Hz  -Weight: -1772.87 grams - Thrust: -17.39 newton - RPM: 3720
+RMS: 252.538300 - FFT: 0.00 Hz  -Weight: -1717.15 grams - Thrust: -16.85 newton - RPM: 3720
+RPM: 3780
+RMS: 214.126526 - FFT: 0.00 Hz  -Weight: -1887.73 grams - Thrust: -18.52 newton - RPM: 3840
+RMS: 183.659714 - FFT: 14.00 Hz  -Weight: -1879.60 grams - Thrust: -18.44 newton - RPM: 3840
+RMS: 197.536728 - FFT: 1.00 Hz  -Weight: -1840.85 grams - Thrust: -18.06 newton - RPM: 3840
+RPM: 3840
+RMS: 202.919983 - FFT: 4.00 Hz  -Weight: -1861.75 grams - Thrust: -18.26 newton - RPM: 3900
+RMS: 170.439606 - FFT: 10.00 Hz  -Weight: -1910.61 grams - Thrust: -18.74 newton - RPM: 3900
+RMS: 167.689056 - FFT: 3.00 Hz  -Weight: -1932.66 grams - Thrust: -18.96 newton - RPM: 3900
+RPM: 3840
+RMS: 189.162308 - FFT: 25.00 Hz  -Weight: -1900.29 grams - Thrust: -18.64 newton - RPM: 3840
+RMS: 191.896378 - FFT: 16.00 Hz  -Weight: -1841.02 grams - Thrust: -18.06 newton - RPM: 3840
+RMS: 188.240189 - FFT: 6.00 Hz  -Weight: -1926.46 grams - Thrust: -18.90 newton - RPM: 3900
+RPM: 3840
+RMS: 188.609833 - FFT: 10.00 Hz  -Weight: -1864.80 grams - Thrust: -18.29 newton - RPM: 3840
+RMS: 208.382324 - FFT: 20.00 Hz  -Weight: -1784.28 grams - Thrust: -17.50 newton - RPM: 3720
+RMS: 213.087921 - FFT: 0.00 Hz  -Weight: -1743.62 grams - Thrust: -17.10 newton - RPM: 3720
+RPM: 3840
+RMS: 195.944473 - FFT: 16.00 Hz  -Weight: -1814.68 grams - Thrust: -17.80 newton - RPM: 3720
+RMS: 234.322540 - FFT: 0.00 Hz  -Weight: -1728.27 grams - Thrust: -16.95 newton - RPM: 3720
+RPM: 3600
+RMS: 231.000046 - FFT: 0.00 Hz  -Weight: -1650.83 grams - Thrust: -16.19 newton - RPM: 3600
+RMS: 303.985535 - FFT: 10.00 Hz  -Weight: -1581.43 grams - Thrust: -15.51 newton - RPM: 3480
+RMS: 268.538391 - FFT: 0.00 Hz  -Weight: -1516.92 grams - Thrust: -14.88 newton - RPM: 3420
+RPM: 3360
+RMS: 153.228912 - FFT: 6.00 Hz  -Weight: -1475.84 grams - Thrust: -14.48 newton - RPM: 3300
+RMS: 113.011414 - FFT: 0.00 Hz  -Weight: -1431.89 grams - Thrust: -14.05 newton - RPM: 3300
+RMS: 82.383797 - FFT: 0.00 Hz  -Weight: -1369.40 grams - Thrust: -13.43 newton - RPM: 3240
+RPM: 3180
+RMS: 76.567879 - FFT: 15.00 Hz  -Weight: -1320.12 grams - Thrust: -12.95 newton - RPM: 3180
+RMS: 83.584686 - FFT: 0.00 Hz  -Weight: -1275.41 grams - Thrust: -12.51 newton - RPM: 3120
+RMS: 75.964134 - FFT: 11.00 Hz  -Weight: -1210.49 grams - Thrust: -11.87 newton - RPM: 3120
+RPM: 3180
+RMS: 91.145485 - FFT: 2.00 Hz  -Weight: -1339.91 grams - Thrust: -13.14 newton - RPM: 3180
+RMS: 94.376427 - FFT: 2.00 Hz  -Weight: -1288.72 grams - Thrust: -12.64 newton - RPM: 3180
+RMS: 81.256691 - FFT: 0.00 Hz  -Weight: -1320.85 grams - Thrust: -12.96 newton - RPM: 3180
+RPM: 3120
+RMS: 83.419067 - FFT: 0.00 Hz  -Weight: -1248.88 grams - Thrust: -12.25 newton - RPM: 3060
+RMS: 61.831142 - FFT: 23.00 Hz  -Weight: -1160.38 grams - Thrust: -11.38 newton - RPM: 2940
+RMS: 57.603821 - FFT: 0.00 Hz  -Weight: -1100.09 grams - Thrust: -10.79 newton - RPM: 2880
+RPM: 2940
+RMS: 64.179283 - FFT: 1.00 Hz  -Weight: -1091.75 grams - Thrust: -10.71 newton - RPM: 2820
+RMS: 74.097977 - FFT: 0.00 Hz  -Weight: -976.79 grams - Thrust: -9.58 newton - RPM: 2700
+RPM: 2640
+RMS: 82.260742 - FFT: 0.00 Hz  -Weight: -881.30 grams - Thrust: -8.65 newton - RPM: 2460
+RMS: 52.224705 - FFT: 0.00 Hz  -Weight: -297.98 grams - Thrust: -2.92 newton - RPM: 1020
+RMS: 44.771645 - FFT: 11.00 Hz  -Weight: -8.05 grams - Thrust: -0.08 newton - RPM: 480
+RPM: 240
+RMS: 11.028599 - FFT: 0.00 Hz  -Weight: 5.53 grams - Thrust: 0.05 newton - RPM: 0
+RMS: 2.338803 - FFT: 0.00 Hz  -Weight: 5.28 grams - Thrust: 0.05 newton - RPM: 0
+RMS: 1.928730 - FFT: 0.00 Hz  -Weight: 4.83 grams - Thrust: 0.05 newton - RPM: 0
+RPM: 0
+RMS: 1.664332 - FFT: 19.00 Hz  -Weight: 5.59 grams - Thrust: 0.05 newton - RPM: 0
+RMS: 1.500000 - FFT: 0.00 Hz  -Weight: 4.31 grams - Thrust: 0.04 newton - RPM: 0
+RMS: 1.989975 - FFT: 0.00 Hz  -Weight: 4.31 grams - Thrust: 0.04 newton - RPM: 0
+RPM: 0
+RMS: 1.640122 - FFT: 3.00 Hz  -Weight: 1.63 grams - Thrust: 0.02 newton - RPM: 0
+RMS: 1.805547 - FFT: 2.00 Hz  -Weight: 3.63 grams - Thrust: 0.04 newton - RPM: 0
+RMS: 2.218107 - FFT: 13.00 Hz  -Weight: 1.69 grams - Thrust: 0.02 newton - RPM: 60
+RPM: 360
+RMS: 20.032972 - FFT: 0.00 Hz  -Weight: -20.04 grams - Thrust: -0.20 newton - RPM: 540
+RMS: 50.257538 - FFT: 0.00 Hz  -Weight: -76.20 grams - Thrust: -0.75 newton - RPM: 900
+RMS: 26.938820 - FFT: 25.00 Hz  -Weight: -123.14 grams - Thrust: -1.21 newton - RPM: 900
+RPM: 960
+RMS: 27.082466 - FFT: 5.00 Hz  -Weight: -198.44 grams - Thrust: -1.95 newton - RPM: 1260
+RMS: 43.809017 - FFT: 15.00 Hz  -Weight: -269.29 grams - Thrust: -2.64 newton - RPM: 1440
+RMS: 50.038586 - FFT: 0.00 Hz  -Weight: -311.13 grams - Thrust: -3.05 newton - RPM: 1740
+RPM: 1740
+RMS: 43.316971 - FFT: 7.00 Hz  -Weight: -331.72 grams - Thrust: -3.25 newton - RPM: 1800
+RMS: 42.889511 - FFT: 0.00 Hz  -Weight: -370.44 grams - Thrust: -3.63 newton - RPM: 1680
+RPM: 1680
+RMS: 41.050823 - FFT: 25.00 Hz  -Weight: -353.05 grams - Thrust: -3.46 newton - RPM: 1740
+RMS: 40.331253 - FFT: 18.00 Hz  -Weight: -340.40 grams - Thrust: -3.34 newton - RPM: 1680
+RMS: 40.708355 - FFT: 3.00 Hz  -Weight: -327.03 grams - Thrust: -3.21 newton - RPM: 1800
+RPM: 1680
+RMS: 44.733879 - FFT: 7.00 Hz  -Weight: -317.81 grams - Thrust: -3.12 newton - RPM: 1620
+RMS: 40.147728 - FFT: 20.00 Hz  -Weight: -101.92 grams - Thrust: -1.00 newton - RPM: 900
+RMS: 38.013420 - FFT: 0.00 Hz  -Weight: 2.07 grams - Thrust: 0.02 newton - RPM: 240
+RPM: 60
+RMS: 4.729693 - FFT: 6.00 Hz  -Weight: 5.29 grams - Thrust: 0.05 newton - RPM: 0
+RMS: 1.881489 - FFT: 7.00 Hz  -Weight: 5.36 grams - Thrust: 0.05 newton - RPM: 0
+RMS: 1.658312 - FFT: 12.00 Hz  -Weight: 4.58 grams - Thrust: 0.04 newton - RPM: 0
+RPM: 0
+RMS: 1.717556 - FFT: 2.00 Hz  -Weight: 3.73 grams - Thrust: 0.04 newton - RPM: 0
+RMS: 1.615549 - FFT: 18.00 Hz  -Weight: 4.64 grams - Thrust: 0.05 newton - RPM: 0
